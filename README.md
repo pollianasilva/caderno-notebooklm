@@ -10,9 +10,9 @@ Centralizar e transformar conteúdos científicos sobre qualidade de vida em um 
 
 ## 📁 Acesse os Materiais do Projeto
 
-- 📊 [Apresentação (Slides)](./slides)
-- 🧠 [Mapa Mental](./mapa-mental)
-- 📚 [Livros e Materiais](./livros)
+- 📊 [Apresentação (Slides)](https://github.com/pollianasilva/caderno-notebooklm/blob/main/NotebookLM%20-%20Caderno%20Tem%C3%A1tico%20-%20Qualidade%20de%20Vida%20Baseada%20em%20Evid%C3%AAncias.pdf)
+- 🧠 [Mapa Mental](https://github.com/pollianasilva/caderno-notebooklm/blob/main/NotebookLM%20Mind%20Map.png)
+- 📚 [Livros e Materiais](https://github.com/pollianasilva/caderno-notebooklm/tree/main/Livros)
 
 ## 🧩 Metodologia
 
